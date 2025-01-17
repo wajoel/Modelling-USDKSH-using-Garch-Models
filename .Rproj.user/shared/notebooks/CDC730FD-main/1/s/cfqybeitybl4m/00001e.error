@@ -1,0 +1,1 @@
+{"frames":[{"func":"check_stationarity(processed_data$Price)","file":"","line_number":0,"end_line_number":0,"character_number":0,"end_character_number":0}],"message":"Error in data[[column_name]] : subscript out of bounds\n"}
